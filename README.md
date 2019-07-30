@@ -1,1 +1,3 @@
-# major-project
+# Generative Advarsarial Networks
+***
+# Image Synthesizer
